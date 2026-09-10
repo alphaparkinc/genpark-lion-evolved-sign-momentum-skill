@@ -1,0 +1,14 @@
+{
+  "name": "genpark-lion-evolved-sign-momentum-skill",
+  "version": "1.0.0",
+  "description": "Lion (EvoLved Sign Momentum) optimizer utilizing sign operations for memory-efficient uniform gradient updates.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "lion-optimizer",
+    "sign-momentum",
+    "deep-learning",
+    "gradient-descent",
+    "memory-efficient"
+  ]
+}
